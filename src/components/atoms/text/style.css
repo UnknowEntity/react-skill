@@ -1,0 +1,36 @@
+div.text {
+  color: black;
+  font-size: 12pt;
+}
+
+div.text.m {
+  font-weight: 550;
+}
+
+div.text.b {
+  font-weight: bold;
+}
+
+div.text.red {
+  color: red;
+}
+
+div.text.green {
+  color: green;
+}
+
+div.text {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.text.s-l {
+  font-size: 18pt;
+}
+
+div.text.s-m {
+  font-size: 13pt;
+}
+
+div.text.s-s {
+  font-size: 6pt;
+}

@@ -1,0 +1,4 @@
+div.input-form-hor {
+  display: flex;
+  flex-direction: row;
+}
